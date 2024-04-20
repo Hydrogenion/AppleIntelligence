@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "1967F02D-512C-42E3-83FD-05B33C9E109B": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "704DF76F-568C-4553-AC37-F772A864D8E0": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "HandskNN.mlmodel",
+            "path": "com.apple.CoreML/HandskNN.mlmodel"
+        },
+        "7D480C03-C948-463F-844A-1C8B5D3DBACD": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        }
+    },
+    "rootModelIdentifier": "704DF76F-568C-4553-AC37-F772A864D8E0"
+}
